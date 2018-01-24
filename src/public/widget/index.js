@@ -39,7 +39,7 @@ export default Vue.extend( {
     query : {
       text : '' ,
       from : '' ,
-      to : '' ,
+      to : 'zh' ,
       api : ''
     } ,
     result : {
